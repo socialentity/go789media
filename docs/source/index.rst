@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Go789 | Cổng game bài đổi thưởng uy tín | Link tải Go789 iOS, Android, APK
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Go789 <https://go789.media/>`_ là cổng game bài đổi thưởng uy tín hàng đầu tại Châu Á. Đa dạng trò chơi cá cược và các dạng khuyến mãi. Đăng nhập ngay tại Go789.media để nhận Giftcode đổi thưởng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Địa chỉ: 143, Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Thành phố Hà Nội, 10162, Việt Nam. 
 
-.. note::
+Phone: 0987676543. 
 
-   This project is under active development.
+Email: Contact@go789.media. 
 
-Contents
---------
+Website: `https://go789.media/ <https://go789.media/>`_
 
-.. toctree::
+Author: `https://go789.media/khanh-trinh-go789-ceo <https://go789.media/khanh-trinh-go789-ceo>`_
 
-   usage
-   api
+#Go789 #gamebaidoithuong #cacuoc #nhacai
